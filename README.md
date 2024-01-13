@@ -1,1 +1,1 @@
-# [**Calculator**](https://zhukaleksandr.github.io/Slider-1/)
+# [**Slider-1**](https://zhukaleksandr.github.io/Slider-1/)
